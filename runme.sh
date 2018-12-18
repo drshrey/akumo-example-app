@@ -16,6 +16,7 @@ cat << EOF > /var/www/html/index.html
   margin: auto;
   text-align: center;
   font-family: Arial;
+  background: ${BACKGROUND};
 }
 </style>
 </head>
